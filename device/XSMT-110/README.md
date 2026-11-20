@@ -15,6 +15,10 @@ Prepare a device-specific Android 8 (Oreo) port for the X.VISION XSMT-110 TV box
 - Wi-Fi: 2.4 GHz
 - Ethernet: 10/100
 
+## Current project files
+- [Current status and next steps](NEXT-STEPS.md)
+- [Read-only diagnostic collector](collect-info.sh)
+
 ## Required identification before selecting a kernel or device tree
 - Exact SoC model and revision
 - Board name / PCB revision
